@@ -1,0 +1,15 @@
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/bin/Debug/net7.0/Client
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/bin/Debug/net7.0/Client.deps.json
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/bin/Debug/net7.0/Client.runtimeconfig.json
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/bin/Debug/net7.0/Client.dll
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/bin/Debug/net7.0/Client.pdb
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/obj/Debug/net7.0/Client.csproj.AssemblyReference.cache
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/obj/Debug/net7.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/obj/Debug/net7.0/Client.AssemblyInfoInputs.cache
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/obj/Debug/net7.0/Client.AssemblyInfo.cs
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/obj/Debug/net7.0/Client.csproj.CoreCompileInputs.cache
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/obj/Debug/net7.0/Client.dll
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/obj/Debug/net7.0/refint/Client.dll
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/obj/Debug/net7.0/Client.pdb
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/obj/Debug/net7.0/Client.genruntimeconfig.cache
+/mnt/c/users/micla/bdsa/lecture_notes/sessions/session_04/AsyncAwaitHTTP/src/Client/obj/Debug/net7.0/ref/Client.dll
