@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "TXteHLlgt0WkUqW+YUOAMKYiazovoz6jk6+JWkkKh+YKi2hDn88ytNNm2SD+CDe2gDXX1XkK/ZKRjpPb+0y8FA==",
+  "success": true,
+  "projectFilePath": "/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/bdsa_greeter.csproj",
+  "expectedPackageFiles": [
+    "/home/mikcla/.nuget/packages/microsoft.netcore.app.runtime.win-x64/7.0.19/microsoft.netcore.app.runtime.win-x64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.netcore.app.runtime.win-arm64/7.0.19/microsoft.netcore.app.runtime.win-arm64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/7.0.19/microsoft.netcore.app.runtime.linux-x64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/7.0.19/microsoft.netcore.app.runtime.osx-x64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.netcore.app.runtime.osx-arm64/7.0.19/microsoft.netcore.app.runtime.osx-arm64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/7.0.19/microsoft.aspnetcore.app.runtime.win-x64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.aspnetcore.app.runtime.win-arm64/7.0.19/microsoft.aspnetcore.app.runtime.win-arm64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/7.0.19/microsoft.aspnetcore.app.runtime.linux-x64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/7.0.19/microsoft.aspnetcore.app.runtime.osx-x64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-arm64/7.0.19/microsoft.aspnetcore.app.runtime.osx-arm64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.netcore.app.host.win-x64/7.0.19/microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.netcore.app.host.win-arm64/7.0.19/microsoft.netcore.app.host.win-arm64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.19/microsoft.netcore.app.host.linux-x64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.19/microsoft.netcore.app.host.osx-x64.7.0.19.nupkg.sha512",
+    "/home/mikcla/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.19/microsoft.netcore.app.host.osx-arm64.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

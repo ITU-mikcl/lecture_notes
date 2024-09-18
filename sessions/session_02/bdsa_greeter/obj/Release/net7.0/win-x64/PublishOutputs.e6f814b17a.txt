@@ -1,0 +1,1 @@
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/bin/Release/net7.0/win-x64/publish/hello.exe

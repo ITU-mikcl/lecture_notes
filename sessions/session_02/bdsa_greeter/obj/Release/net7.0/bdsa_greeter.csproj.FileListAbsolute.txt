@@ -1,0 +1,13 @@
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/bin/Release/net7.0/hello
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/bin/Release/net7.0/hello.deps.json
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/bin/Release/net7.0/hello.runtimeconfig.json
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/bin/Release/net7.0/hello.dll
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/obj/Release/net7.0/bdsa_greeter.csproj.AssemblyReference.cache
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/obj/Release/net7.0/bdsa_greeter.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/obj/Release/net7.0/bdsa_greeter.AssemblyInfoInputs.cache
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/obj/Release/net7.0/bdsa_greeter.AssemblyInfo.cs
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/obj/Release/net7.0/bdsa_greeter.csproj.CoreCompileInputs.cache
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/obj/Release/net7.0/hello.dll
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/obj/Release/net7.0/refint/hello.dll
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/obj/Release/net7.0/bdsa_greeter.genruntimeconfig.cache
+/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_02/bdsa_greeter/obj/Release/net7.0/ref/hello.dll
