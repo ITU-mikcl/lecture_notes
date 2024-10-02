@@ -10,24 +10,23 @@ public interface ICheepService
 
 class Message
 {
-    int MessageId { get; set; }
-    int UserId { get; set; }
-    string Text { get; set; }
-    User User { get; set; }
+    public int MessageId { get; set; }
+    public int UserId { get; set; }
+    public string Text { get; set; }
+    public User User { get; set; }
 }
 
-class User
-{
-    int UserId { get; set; }
-    string Name { get; set; }
-    ICollection<Message> Messages { get; set; }
+class User {
+    public int UserId { get; set; }
+    public string Name { get; set; }
+    public ICollection<Message> Messages { get; set; }
 }
 
 class ChatDBContext : DbContext
 {
-    DbSet<Message> messages { get; set; }
-    DbSet<User> users { get; set; }
-    
+    public DbSet<Message> Messages { get; set; }
+    public DbSet<User> Users { get; set; }
+
     public ChatDBContext(DbContextOptions<ChatDBContext> options) : base(options)
     {
         
