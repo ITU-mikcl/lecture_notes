@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyChat.Razor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7eff50020b5ac12462d78832def74c09aa012781")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6c856199aed1674904e3b71efe65dd2842af592")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyChat.Razor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyChat.Razor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

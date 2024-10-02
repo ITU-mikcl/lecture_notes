@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "TcDkzIB+qZXIPwZMU4bzMW2y1abVOMpGP1wIoxvemdc=",
+  "Source": "MyChat.Razor",
+  "BasePath": "_content/MyChat.Razor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyChat.Razor/wwwroot",
+      "Source": "MyChat.Razor",
+      "ContentRoot": "/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_06/MyChat.Razor/wwwroot/",
+      "BasePath": "_content/MyChat.Razor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_06/MyChat.Razor/wwwroot/css/style.css",
+      "SourceId": "MyChat.Razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_06/MyChat.Razor/wwwroot/",
+      "BasePath": "_content/MyChat.Razor",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_06/MyChat.Razor/wwwroot/favicon/favicon.ico",
+      "SourceId": "MyChat.Razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_06/MyChat.Razor/wwwroot/",
+      "BasePath": "_content/MyChat.Razor",
+      "RelativePath": "favicon/favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon/favicon.ico"
+    },
+    {
+      "Identity": "/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_06/MyChat.Razor/wwwroot/images/icon1.png",
+      "SourceId": "MyChat.Razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_06/MyChat.Razor/wwwroot/",
+      "BasePath": "_content/MyChat.Razor",
+      "RelativePath": "images/icon1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/icon1.png"
+    }
+  ]
+}

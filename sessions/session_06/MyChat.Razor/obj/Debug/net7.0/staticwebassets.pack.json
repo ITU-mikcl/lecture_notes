@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_06/MyChat.Razor/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_06/MyChat.Razor/wwwroot/favicon/favicon.ico",
+      "PackagePath": "staticwebassets/favicon/favicon.ico"
+    },
+    {
+      "Id": "/mnt/c/Users/micla/bdsa/lecture_notes/sessions/session_06/MyChat.Razor/wwwroot/images/icon1.png",
+      "PackagePath": "staticwebassets/images/icon1.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.MyChat.Razor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.MyChat.Razor.props",
+      "PackagePath": "build\\MyChat.Razor.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MyChat.Razor.props",
+      "PackagePath": "buildMultiTargeting\\MyChat.Razor.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MyChat.Razor.props",
+      "PackagePath": "buildTransitive\\MyChat.Razor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
